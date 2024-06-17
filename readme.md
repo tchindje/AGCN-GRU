@@ -1,7 +1,6 @@
 # Adaptive-GCN  for Traffic Forecasting
 
-This folder concludes the code and data of our AGCRN model: [Adaptive Graph Convolutional Recurrent Network for Traffic Forecasting](https://arxiv.org/pdf/2007.02842.pdf), which has been accepted to NeurIPS 2020. 
-
+This folder concludes the code and data of our AGCRN model.
 ## Structure:
 
 * data: including PEMSD4 dataset used in our experiments, which are released by and available at  [ASTGCN](https://github.com/Davidham3/ASTGCN/tree/master/data).
